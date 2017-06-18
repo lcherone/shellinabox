@@ -5,8 +5,10 @@ shellinabox
 [![Join the chat at https://gitter.im/shellinabox/shellinabox](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/shellinabox/shellinabox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 @lcherone
-Removed annoying window.onbeforeunload event
-Tidy and removed massive licence on index, a link would suffice.
+
+ - Removed annoying window.onbeforeunload event
+ - Massive licence on root.html, a link would suffice.
+ - Format HTML
 
 
 This is an unofficial fork of the project **Shell In A Box**. The fork was created because
