@@ -2,8 +2,11 @@
 shellinabox
 ===========
 
-[![Build Status](https://drone.io/github.com/shellinabox/shellinabox/status.png)](https://drone.io/github.com/shellinabox/shellinabox/latest)
 [![Join the chat at https://gitter.im/shellinabox/shellinabox](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/shellinabox/shellinabox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+@lcherone
+Removed annoying window.onbeforeunload event
+Tidy and removed massive licence on index, a link would suffice.
 
 
 This is an unofficial fork of the project **Shell In A Box**. The fork was created because
@@ -57,7 +60,7 @@ listed below. This will create executable file `shellinaboxd` in project directo
 2. Clone source files and move to project directory
 
    ```
-    git clone https://github.com/shellinabox/shellinabox.git && cd shellinabox
+    git clone https://github.com/lcherone/shellinabox.git && cd shellinabox
    ```
 
 3. Run autotools in project directory
