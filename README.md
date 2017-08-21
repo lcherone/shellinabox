@@ -8,6 +8,7 @@ shellinabox
 
  - Removed annoying window.onbeforeunload event
  - Massive licence on root.html, a link would suffice.
+ - Added noindex,nofollow meta tag. Who wants to be indexed?
  - Format HTML
 
 
