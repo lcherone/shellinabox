@@ -467,7 +467,7 @@ ShellInABox.prototype.messageReplay = function(type, data) {
 };
 
 ShellInABox.prototype.about = function() {
-  alert("Shell In A Box - Custom Build x");
+  alert("Shell In A Box - Custom Build");
 };
 
 /* vim: set filetype=javascript : */
